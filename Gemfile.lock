@@ -1,0 +1,24 @@
+PATH
+  remote: .
+  specs:
+    flagmoji (0.1.0)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    minitest (5.14.2)
+    minitest-spec-expect (2.0.0)
+      minitest (~> 5.0)
+    rake (12.3.2)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  flagmoji!
+  minitest (~> 5.14, >= 5.14.2)
+  minitest-spec-expect (~> 2.0)
+  rake (~> 12.0)
+
+BUNDLED WITH
+   2.1.4
