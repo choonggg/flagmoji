@@ -26,5 +26,4 @@ Gem::Specification.new do |spec|
   spec.require_paths = ["lib"]
 
   spec.add_development_dependency "minitest", "~> 5.14", ">= 5.14.2"
-  spec.add_development_dependency "minitest-spec-expect", "~> 2.0"
 end

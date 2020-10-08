@@ -7,8 +7,6 @@ GEM
   remote: https://rubygems.org/
   specs:
     minitest (5.14.2)
-    minitest-spec-expect (2.0.0)
-      minitest (~> 5.0)
     rake (12.3.2)
 
 PLATFORMS
@@ -17,7 +15,6 @@ PLATFORMS
 DEPENDENCIES
   flagmoji!
   minitest (~> 5.14, >= 5.14.2)
-  minitest-spec-expect (~> 2.0)
   rake (~> 12.0)
 
 BUNDLED WITH
